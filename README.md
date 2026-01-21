@@ -37,7 +37,7 @@ Frontend:
 
 1. Clone the repository:
 
-git clone https://github.com/patilvishanavi-nlp/Smart-Text-Analyzer
+git clone https://github.com/patilvishanavi-nlp/Smart-Text-Analyzer-
 
 2. Install required Python packages:
 
@@ -53,4 +53,4 @@ http://localhost:3000
 
 ## Live Demo
 
-Hosted on Replit 
+Hosted on Replit : https://smart-text-analyzer-1.patilvishanavi.repl.co
