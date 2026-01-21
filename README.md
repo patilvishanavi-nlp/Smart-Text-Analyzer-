@@ -8,7 +8,8 @@ Built independently to demonstrate Python programming, text analysis, and data h
 ## Features
 - Analyze sentiment (positive / negative)  
 - Measure subjectivity (objective / subjective)  
-- Extract keywords from text  
+- Extract keywords from text
+-  Generate a Word Cloud visualization of keywords
 
 ## Getting Started
 To run this project on your computer:
