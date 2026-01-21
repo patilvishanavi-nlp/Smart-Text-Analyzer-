@@ -1,3 +1,6 @@
 flask
 textblob
 nltk
+matplotlib
+wordcloud
+gunicorn
