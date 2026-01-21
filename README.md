@@ -1,34 +1,56 @@
-# Smart-Text-Analyzer-
-Analysis text for sentiments, keywords , and language pattern using python
-# Smart Text Analyzer
+# Smart Text Analyzer (Python NLP Web App)
 
-A Python project that analyzes text to determine sentiment, subjectivity, and keywords.  
-Built independently to demonstrate Python programming, text analysis, and data handling skills.
+Smart Text Analyzer is a Python-based Natural Language Processing (NLP) web application that performs real-time sentiment analysis on user input text.
 
-## Features
-- Analyze sentiment (positive / negative)  
-- Measure subjectivity (objective / subjective)  
-- Extract keywords from text
--  Generate a Word Cloud visualization of keywords
+## Project Overview
 
-## Getting Started
-To run this project on your computer:
+This project allows users to enter any English text and receive:
 
-1. Download the repository as a ZIP file or clone it:
-git clone https://github.com/patilvishanavi-nlp/Smart-Text-Analyzer.git
-2. Navigate into the project folder:
- cd Smart-Text-Analyzer
-3. Install the required Python libraries:
-   pip install -r requirements.txt
-4. Run the analyzer:
-   python analyzer.py
-5. Modify `sample_input.txt` with your own text to test.
+- Sentiment polarity score (Positive / Negative / Neutral)
+- Subjectivity analysis
+- Keyword extraction
+- Instant results through a web interface
 
-## Example Output
-Text: I love studying AI and building projects! Text analysis is fun and insightful.
-Sentiment Score: 0.85
-Subjectivity Score: 0.75
-Keywords: [‘projects’, ‘Text’, ‘fun’, ‘building’, ‘AI’, ‘analysis’, ‘insightful’, ‘love’, ‘studying’, ‘and’, ‘is’]
+The backend logic is implemented entirely in Python using Flask and TextBlob.
 
-## My Contribution
-I independently built this project from scratch, implementing the text analyzer logic, preparing example inputs, and documenting the project to make it fully functional and easy to use.
+## Technologies Used
+
+Backend (Python):
+- Python 3
+- Flask
+- TextBlob
+
+Frontend:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+## How It Works
+
+1. User enters text on the web interface  
+2. JavaScript sends the input to the Flask backend  
+3. Python processes the text using TextBlob NLP methods  
+4. Results are returned and displayed instantly on the webpage  
+
+## Installation & Running Locally
+
+1. Clone the repository:
+
+git clone https://github.com/YOUR-USERNAME/Smart-Text-Analyzer
+
+2. Install required Python packages:
+
+pip install -r requirements.txt
+
+3. Run the application:
+
+python app.py
+
+4. Open browser and visit:
+
+http://localhost:3000
+
+## Live Demo
+
+Hosted on Replit 
