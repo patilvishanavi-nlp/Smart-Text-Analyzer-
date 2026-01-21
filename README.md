@@ -37,7 +37,7 @@ Frontend:
 
 1. Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/Smart-Text-Analyzer
+git clone https://github.com/patilvishanavi-nlp/Smart-Text-Analyzer
 
 2. Install required Python packages:
 
