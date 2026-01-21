@@ -1,4 +1,4 @@
-# Smart Text Analyzer (Python NLP Web App)
+hi# Smart Text Analyzer (Python NLP Web App)
 
 Smart Text Analyzer is a Python-based Natural Language Processing (NLP) web application that performs real-time sentiment analysis on user input text.
 
@@ -49,8 +49,8 @@ python app.py
 
 4. Open browser and visit:
 
-http://localhost:3000
+http://localhost:5000
 
 ## Live Demo
 
-Hosted on Replit : https://smart-text-analyzer-1.patilvishanavi.repl.co
+Hosted on Replit : https://smart-text-analyzer-2--patilvishanavi.replit.app
